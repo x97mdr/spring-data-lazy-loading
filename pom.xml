@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>info.cukes</groupId>
-    <artifactId>spring-jpa-lazy-loading</artifactId>
+    <artifactId>spring-data-lazy-loading</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
