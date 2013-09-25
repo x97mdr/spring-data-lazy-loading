@@ -10,7 +10,7 @@ import org.springframework.stereotype.Repository;
  * Time: 2:34 PM
  */
 @Repository
-public interface ParentRepository extends JpaRepository<Parent, Integer> {
+public interface ParentRepository extends JpaRepository<Parent, Long> {
 
     public Parent findByFirstName(String firstName);
 }
